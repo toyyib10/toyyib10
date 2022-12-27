@@ -8,5 +8,4 @@ I have been learning programming for almost a year. I am full stack developer wi
 
 *   🌍  I'm based in Ogbomoso
 *   ✉️  You can contact me at [yekeentoyyib@gmail.com](mailto:yekeentoyyib@gmail.com)
-*   🧠  I'm learning Angular
 *   🤝  I'm open to collaborating on Any project base on React and Node

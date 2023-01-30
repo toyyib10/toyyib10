@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I have been learning programming for almost a year. I am full stack developer with with knowledge of MERN stack and also Chart Js Python.
+I have been learning programming for almost a year. I am full stack developer with with knowledge of MERN stack, Bootstrap, Chart Js and Python.
 
 *   🌍  I'm based in Ogbomoso
 *   ✉️  You can contact me at [yekeentoyyib@gmail.com](mailto:yekeentoyyib@gmail.com)

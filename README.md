@@ -6,6 +6,6 @@ Web developer
 
 I have been learning programming for almost a year. I am full stack developer with with knowledge of MERN stack, Bootstrap, Chart Js and Python.
 
-*   🌍  I'm based in Ogbomoso
+*   🌍  I live in Ogbomoso
 *   ✉️  You can contact me at [yekeentoyyib@gmail.com](mailto:yekeentoyyib@gmail.com)
 *   🤝  I'm open to collaborating on Any project base on React and Node

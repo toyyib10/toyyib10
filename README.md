@@ -1,11 +1,33 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yekeen Toyyib
-=====================================================================================================================================
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Web developer
--------------
+###
 
-I have been learning programming for almost a year. I am full stack developer with with knowledge of MERN stack, Bootstrap, Chart Js and Python.
+<p align="left">My name is Yekeen Toyyib and I'm a ..., from ....</p>
 
-*   🌍  I live in Ogbomoso
-*   ✉️  You can contact me at [yekeentoyyib@gmail.com](mailto:yekeentoyyib@gmail.com)
-*   🤝  I'm open to collaborating on Any project base on React and Node
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2021<br>🎲 Fun fact: Love coding in JavaScript</p>
+
+###
+
+<h2 align="left">I code with JavaScript reactjs
+
+nodejs Html Css</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+</div>
+
+###
+
+
+
+

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toyyib10" alt="toyyib10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/toyyib" target="blank"><img src="https://img.shields.io/twitter/follow/toyyib?logo=twitter&style=for-the-badge" alt="toyyib" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ToyyibYekeen" target="blank"><img src="https://img.shields.io/twitter/follow/toyyib?logo=twitter&style=for-the-badge" alt="toyyib" /></a> </p>
 
 - 🔭 I’m currently working on [Save Note](https://github.com/toyyib10/Save-Note)
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/toyyib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toyyib" height="30" width="40" /></a>
+<a href="https://twitter.com/ToyyibYekeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toyyib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yekeen toyyib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yekeen toyyib" height="30" width="40" /></a>
-<a href="https://fb.com/young scholar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="young scholar" height="30" width="40" /></a>
+<a href="https://fb.com/toyyib.yekeen.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="young scholar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

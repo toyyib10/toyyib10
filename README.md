@@ -1,32 +1,68 @@
-<h1 align="center">Hi 👋, I'm Yekeen Toyyib</h1>
-<h3 align="center">A passionate full stack (MERN) developer from Nigeria</h3>
+<!-- README.md with Animations and Polished Design -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Yekeen+Toyyib!;Full+Stack+%28MERN%29+Developer;Robotics+%7C+AI+%7C+Computer+Vision;Always+Building+Cool+Stuff!&center=true&size=25"/>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toyyib10&label=Profile%20views&color=0e75b6&style=flat" alt="toyyib10" /> </p>
+<h3 align="center">A passionate Full Stack Developer & Robotics Enthusiast from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toyyib10" alt="toyyib10" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ToyyibYekeen" target="blank"><img src="https://img.shields.io/twitter/follow/toyyib?logo=twitter&style=for-the-badge" alt="toyyib" /></a> </p>
-
-- 🔭 I’m currently working on [Save Note](https://github.com/toyyib10/Save-Note)
-
-- 💬 Ask me about **react, node, mongodb ,javascript ,python**
-
-- 📫 How to reach me **yekeentoyyib@gmail.com**
-
-- ⚡ Fun fact **Love coding with javascript**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ToyyibYekeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="toyyib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yekeen toyyib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yekeen toyyib" height="30" width="40" /></a>
-<a href="https://fb.com/toyyib.yekeen.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="young scholar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=toyyib10&label=Profile%20views&color=0e75b6&style=flat" alt="toyyib10" />
+  <a href="https://twitter.com/ToyyibYekeen" target="blank">
+    <img src="https://img.shields.io/twitter/follow/toyyibyekeen?logo=twitter&style=for-the-badge" alt="twitter followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toyyib10&show_icons=true&locale=en&layout=compact" alt="toyyib10" /></p>
+### 🔥 About Me
+- 📚 Currently learning: `Raspberry Pi`, `ESP32`, `Autodesk Fusion 360`
+- 🤖 Building: A smart DIY rover powered by hoverboard motors, Jetson Nano & a 4K CGO3+ drone camera
+- 👨‍💻 Exploring: Face authentication, WebSocket video streaming, OpenCV, and gimbal control
+- 💬 Ask me about: `React`, `Node.js`, `MongoDB`, `Python`, `OpenCV`, `Raspberry Pi`, `Fusion 360`
+- 📫 Reach me at: **yekeentoyyib@gmail.com**
+- ⚡ Fun Fact: I build robots from hoverboards and cameras—basically a tech MacGyver 😎
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toyyib10&show_icons=true&locale=en" alt="toyyib10" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toyyib10&" alt="toyyib10" /></p>
+### 🚀 Live Projects
+- 🎬 [Netflix Clone](https://netflix-clone-wlr2.onrender.com/)
+- 🛍️ [Tee-A Multiventures Store](https://tee-a-multiventures.onrender.com)
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/ToyyibYekeen"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yekeen toyyib"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/toyyib.yekeen.1"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ Languages, Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,python,git,postman,bootstrap,firebase,opencv,github,vscode" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Fusion%20360-Autodesk-FFB000?style=for-the-badge&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-CC0000?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DroneKit-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toyyib10&show_icons=true&theme=radical" alt="toyyib10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyyib10&layout=compact&theme=radical" alt="top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toyyib10&theme=radical" alt="streak stats" />
+</p>
+
+---
+
+### 🧠 Fun Fact Animation
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58E&center=true&width=600&lines=I+turn+hoverboards+into+robots.;I+control+cameras+with+React.;I+make+AI+look+easy.;I+drink+coffee+with+JavaScript.;Let%E2%80%99s+build+something+awesome+together!"/>
+</p>

@@ -41,7 +41,7 @@
 
 ### 🛠️ Languages, Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,python,git,postman,bootstrap,firebase,opencv,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python,git,postman,bootstrap,opencv,github,vscode" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Fusion%20360-Autodesk-FFB000?style=for-the-badge&logo=autodesk&logoColor=white"/>

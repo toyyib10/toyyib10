@@ -25,7 +25,7 @@
 ---
 
 ### 🚀 Live Projects
-- 🎬 [Netflix Clone](https://netflix-clone-wlr2.onrender.com/)
+- 🎬 [Netflix Clone](https://movieflix-fle7.onrender.com)
 - 🛍️ [Tee-A Multiventures Store](https://tee-a-multiventures.onrender.com)
 - 👨‍💻 [Co-insyde](https://co-insyde.onrender.com/)
 - 👨‍💻 [Rover Frontend](https://rover-frontend.onrender.com/)

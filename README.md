@@ -66,5 +66,5 @@
 
 ### 🧠 Fun Fact Animation
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58E&center=true&width=600&lines=I+turn+hoverboards+into+robots.;I+control+cameras+with+React.;I+make+AI+look+easy.;I+drink+coffee+with+JavaScript.;Let%E2%80%99s+build+something+awesome+together!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58E&center=true&width=600&lines=I+turn+hoverboards+into+robots.;I+control+cameras+with+React.;I+drink+coffee+with+JavaScript.;Let%E2%80%99s+build+something+awesome+together!"/>
 </p>

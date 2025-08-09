@@ -1,6 +1,6 @@
 <!-- README.md with Animations and Polished Design -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Yekeen+Toyyib!;Full+Stack+%28MERN%29+Developer;Robotics+%7C+AI+%7C+Computer+Vision;Always+Building+Cool+Stuff!&center=true&size=25"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Yekeen+Toyyib!;Full+Stack+%28MERN%29+Developer;Robotics+%7C+Robotic Arm+%7C+Computer+Vision;Always+Building+Cool+Stuff!&center=true&size=25"/>
 </h1>
 
 <h3 align="center">A passionate Full Stack Developer & Robotics Enthusiast from Nigeria</h3>

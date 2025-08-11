@@ -29,6 +29,7 @@
 - 🛍️ [Tee-A Multiventures Store](https://tee-a-multiventures.onrender.com)
 - 👨‍💻 [Co-insyde](https://co-insyde.onrender.com/)
 - 👨‍💻 [Rover Frontend](https://rover-frontend.onrender.com/)
+- [Agriscan](https://agriscan-jcm7.onrender.com)
 
 ---
 
@@ -64,7 +65,7 @@
 
 ---
 
-### 🧠 Fun Fact Animation
+### 🧠 Fun Fact
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F58E&center=true&width=600&lines=I+turn+hoverboards+into+robots.;I+control+cameras+with+React.;I+drink+coffee+with+JavaScript.;Let%E2%80%99s+build+something+awesome+together!"/>
 </p>
